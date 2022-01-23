@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author sivagamasrinivasan
- * sasdfafasdf i am changing again revert check hello This is branch in test*/
+ * sasdfafasdf i am changing again revert check hello This is branch in test by me*/
 public class Week1 
 {
 
