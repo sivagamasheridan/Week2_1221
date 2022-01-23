@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author sivagamasrinivasan
- * sasdfafasdf i am changing again revert check*/
+ * sasdfafasdf i am changing again revert check hello*/
 public class Week1 
 {
 
